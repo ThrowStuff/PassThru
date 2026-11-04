@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Cale
+Comment=Send desktop audio to PassThru on your phone
+Exec=python -m cale --gui
+Icon=audio-headphones
+Terminal=false
+Categories=AudioVideo;Audio;

@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: GPL-3.0-only
+PySide6-Essentials==6.10.2
+PyAudioWPatch==0.2.12.9
+cryptography==46.0.5
+zeroconf==0.153.0
+ifaddr==0.2.0
+PyInstaller==6.16.0

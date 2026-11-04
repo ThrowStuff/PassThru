@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: GPL-3.0-only -->
+<resources>
+    <color name="background">#0d1017</color>
+    <color name="surface">#191e29</color>
+    <color name="ink">#f2f3fa</color>
+    <color name="muted">#adb7c9</color>
+    <color name="accent">#ba9aff</color>
+    <color name="border">#344053</color>
+    <color name="attention">#E8B66D</color>
+    <color name="on_accent">#182132</color>
+</resources>
